@@ -1,1 +1,1 @@
-y
+The Newspaper project
